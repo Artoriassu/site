@@ -1,0 +1,27 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+}
+
+.dialog_person {
+    text-decoration: none;
+    padding-left: 15px;
+    color: green;
+    font-family: Cochin;
+}
+
+.dialog {
+    padding: 11px;
+}
+
+.dialog img {
+    width: 50px;
+    border-radius: 25%;
+}
+
+.messages {
+    padding: 12px;
+}
+.newMessage_TextArea{
+    padding-top: 25px;
+}
